@@ -2758,4 +2758,6 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 #EXTINF:-1,سيلك واي كازاخستان
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1, ملي اوزبكستان
-	http://milliy.tv/hls/index.m3u8
+http://milliy.tv/hls/index.m3u8
+#EXTINF:-1, كانال سور بتاغونيا شيلي
+https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8
